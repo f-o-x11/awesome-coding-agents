@@ -91,6 +91,7 @@
 | 👀 | [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | desktop, acp, subagents, local-models | Free, open-source desktop app for Claude Code and Codex: follow every agent and subagent live, run your own agent organization and automate routines. Also searches your Gemini CLI and Grok history. macOS, Windows, Linux. |
 | 👀 | [acpantenna](https://github.com/fboldo/acpantenna) | acp, remote-access, e2e, qr | An ngrok for your coding agent. Use Claude Code, Codex or any ACP agent from your phone, end-to-end encrypted. |
 | 👀 | [autoharness](https://github.com/D-Shey/autoharness) | harness, skills, critic, mcp-gateway | Engineering discipline for coding agents: prepare before building, check against the original, let an independent critic judge the result. |
+| 👀 | [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) | skill, publish, static-hosting, mcp, no-account | Agent skill: publish files to a permanent deed.page URL with one curl request. No account. |
 
 ## Agent Instructions
 
